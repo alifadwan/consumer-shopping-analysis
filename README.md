@@ -10,7 +10,7 @@ This is a beginner data analytics portfolio project focused on data preparation,
 
 ## Dashboard Overview
 
-![Consumer Shopping Analysis Dashboard](screenshots/06-Final%20Dashboard.png)
+![Consumer Shopping Analysis Dashboard](Screenshots/06-Final%20Dashboard.png)
 
 The final dashboard contains four KPI cards:
 
